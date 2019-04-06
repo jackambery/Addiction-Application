@@ -1,2 +1,2 @@
 # Addiction-Application
-2019 HackTJ Project
+An app to help people monitor their addictions and how much money they've saved from abstaining from their addiction.
